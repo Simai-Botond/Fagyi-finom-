@@ -22,6 +22,7 @@ img
 {
     border-radius: 30px;
     margin-top: 15px;
+    height: 230px;
 }
 nav
 {
@@ -31,16 +32,24 @@ nav
 {
     text-align: center;
 }
-
-/*buta c*/
 .cart
 {
     background-color: #e69c2d;
-    margin: 0 auto !important;
-    text-align: center !important;
-    
+    border: #664c06;
+    acti
 }
 .cart:hover
 {
     background-color: #e69c2d;
+}
+.kiszalit_text
+{
+    margin-left: 20px;
+}
+#gyumolcs, #klasszik ,#kulonleges
+{
+    background-color: #FFC81E;
+    border-radius: 25px;
+    padding: 20px;
+    margin-top:5px ;
 }
