@@ -31,3 +31,16 @@ nav
 {
     text-align: center;
 }
+
+/*buta c*/
+.cart
+{
+    background-color: #e69c2d;
+    margin: 0 auto !important;
+    text-align: center !important;
+    
+}
+.cart:hover
+{
+    background-color: #e69c2d;
+}
